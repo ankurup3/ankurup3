@@ -1,3 +1,7 @@
+<p align=”center”>
+  
+<a href="https://www.linkedin.com/in/ankur-upadhyay-a82b02135/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/73516124/147856406-a74687d5-eb1f-4f38-bbfe-1d77198115b8.png" alt="my banner"></a>
+</p>
 ### Hi there 👋 I am Ankur Upadhyay!
 
 - 🔭 I’m currently working on ...
