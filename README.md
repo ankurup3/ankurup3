@@ -6,6 +6,7 @@
 ### Hi there 👋 I am Ankur Upadhyay!
 
 - 🌱 I’m currently learning Machine Learning and DSA.
+- 📕 I am CSE student at NIT Silchar, India.
 - 👯 I’m looking to collaborate on Beginner friendly projects!
 
 ### Connect with me:
