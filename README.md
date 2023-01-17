@@ -6,8 +6,8 @@
 ### Hi there 👋 I am Ankur Upadhyay!
 
 - 🌱 I’m currently learning Machine Learning and DSA.
-- 📕 I am a 3rd year CSE student at NIT Silchar, India.
-- 👯 I’m looking to collaborate on Beginner friendly projects!
+- 📕 I am a 4th year CSE student at **NIT Silchar**, India.
+- 👯 I’m looking to collaborate on fun and enriching projects!
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/ankur-upadhyay-a82b02135/"><img align="left" src="https://raw.githubusercontent.com/ankurup3/ankurup3/main/images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
